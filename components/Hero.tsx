@@ -17,7 +17,6 @@ const Hero: React.FC = () => {
 
       <div className="container mx-auto px-6 relative z-10 pt-20">
         <div className="max-w-4xl">
-          <h4 className="text-[#00f2ff] font-bold tracking-[0.3em] uppercase mb-4 animate-pulse">ESTABLISHED FOR ELITE PERFORMANCE</h4>
           <h1 className="text-5xl md:text-8xl font-black text-white leading-none mb-6">
             TRIPLE Z FITNESS — <br />
             <span className="gradient-cyan">UNLEASH YOUR ELITE POTENTIAL</span>
