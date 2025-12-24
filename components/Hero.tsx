@@ -18,19 +18,19 @@ const Hero: React.FC = () => {
       <div className="container mx-auto px-6 relative z-10 pt-20">
         <div className="max-w-4xl">
           <h1 className="text-5xl md:text-8xl font-black text-white leading-none mb-6">
-            TRIPLE Z FITNESS — <br />
-            <span className="gradient-cyan">UNLEASH YOUR ELITE POTENTIAL</span>
+            TRIPLE Z FITNESS GYM<br />
+            <span className="gradient-cyan">UNLEASH YOUR POTENTIAL</span>
           </h1>
           <p className="text-xl text-zinc-400 mb-10 max-w-2xl leading-relaxed">
-            Premium facilities, optimization coaching, and an environment built for serious results. We don't just train bodies; we engineer performance.
+            Premium facilities, optimization coaching, and an environment built for serious results. We don't just train bodies we engineer performance.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-6">
             <button className="bg-[#00f2ff] text-[#050505] px-10 py-5 rounded-none font-black uppercase tracking-widest hover:bg-white transition-all neon-cyan-glow">
-              VIEW DISCOUNTED PACKAGES
+              VIEW PACKAGES
             </button>
             <button className="border-2 border-[#00f2ff] text-[#00f2ff] px-10 py-5 rounded-none font-black uppercase tracking-widest hover:bg-[#00f2ff] hover:text-[#050505] transition-all">
-              BOOK FREE DEMO
+              BOOK DEMO
             </button>
           </div>
         </div>
