@@ -27,7 +27,7 @@ const SpecialOffer: React.FC = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              3 DAYS FREE DEMO TRAINING
+              DEMO TRAINING
             </div>
             <div className="flex items-center gap-3 text-white font-bold">
               <div className="w-6 h-6 bg-[#00f2ff] rounded-full flex items-center justify-center">
@@ -40,7 +40,7 @@ const SpecialOffer: React.FC = () => {
           </div>
 
           <button className="bg-[#00f2ff] text-[#050505] px-12 py-6 rounded-none font-black text-xl uppercase tracking-widest hover:bg-white transition-all shadow-[0_0_30px_#00f2ff]">
-            CLAIM OFFER NOW
+            START YOUR JOURNEY 
           </button>
         </div>
       </div>
