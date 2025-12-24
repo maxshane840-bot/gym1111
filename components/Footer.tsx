@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                 </div>
-                <span className="text-zinc-400 group-hover:text-white transition-colors">North Nazimabad, Block N B-269, Karachi, Pakistan</span>
+                <span className="text-zinc-400 group-hover:text-white transition-colors">Saima Arabian Villas, North Karachi</span>
               </li>
               <li className="flex gap-5 group">
                 <div className="w-10 h-10 shrink-0 border border-[#00f2ff]/30 flex items-center justify-center text-[#00f2ff] group-hover:bg-[#00f2ff] group-hover:text-[#050505] transition-all">
