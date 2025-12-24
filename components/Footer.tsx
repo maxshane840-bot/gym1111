@@ -62,7 +62,7 @@ const Footer: React.FC = () => {
             </div>
             <div className="bg-[#0a0a0a] p-4 border-l-4 border-[#00f2ff] inline-block">
               <div className="text-[#00f2ff] font-black uppercase tracking-[0.3em] text-sm">
-                @triplezchapter3
+                @triplezfitness.pk
               </div>
             </div>
           </div>
