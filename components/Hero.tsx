@@ -18,8 +18,7 @@ const Hero: React.FC = () => {
       <div className="container mx-auto px-6 relative z-10 pt-20">
         <div className="max-w-4xl">
           <h1 className="text-5xl md:text-8xl font-black text-white leading-none mb-6">
-            TRIPLE Z FITNESS GYM<br />
-            <span className="gradient-cyan">UNLEASH YOUR POTENTIAL</span>
+            TRIPLE Z FITNESS GYM UNLEASH YOUR POTENTIAL<br />
           </h1>
           <p className="text-xl text-zinc-400 mb-10 max-w-2xl leading-relaxed">
             Premium facilities, optimization coaching, and an environment built for serious results. We don't just train bodies we engineer performance.
