@@ -5,10 +5,10 @@ const Gallery: React.FC = () => {
   const images = [
     { url: 'https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=2070&auto=format&fit=crop', title: 'WEIGHT FLOOR' },
     { url: 'https://images.unsplash.com/photo-1593079831268-3381b0db4a77?q=80&w=2069&auto=format&fit=crop', title: 'CARDIO ZONE' },
-    { url: 'https://www.dreamstime.com/functional-training-gym-kettlebells-weights-professional-interior-dumbbells-setups-large-mirrors-posters-line-walls-image369696665', title: 'FUNCTIONAL AREA' },
+    { url: 'https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=2070&auto=format&fit=crop', title: 'FUNCTIONAL AREA' },
     { url: 'https://images.unsplash.com/photo-1623874514711-0f321325f318?q=80&w=2070&auto=format&fit=crop', title: 'RECOVERY SUITE' },
     { url: 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=2070&auto=format&fit=crop', title: 'LEGS STATION' },
-    { url: 'https://images.unsplash.com/photo-1519311965067-36d3b5f33d39?q=80&w=2071&auto=format&fit=crop', title: 'UPPER BODY PODS' }
+    { url: 'https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=2070&auto=format&fit=crop', title: 'UPPER BODY PODS' }
   ];
 
   return (
